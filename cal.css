@@ -1,0 +1,47 @@
+.container{
+    width:230px;
+    height: 325px;
+    border: 1px solid black;
+    background-color: black;
+}
+button{
+    font-size: 30px;
+    width: 50px;
+    height: 50px;
+    margin: 2px;
+    border: 1px solid black;
+    
+    border-radius: 100%;
+}
+#num{
+    color: white;
+    background-color: rgb(58, 56, 56);
+}
+#num:hover{
+    background-color: rgb(140, 137, 137);
+}
+button:hover{
+    cursor: pointer;
+    background-color: white
+}
+
+#same{
+   
+    color: white;
+    background-color: orange;
+}
+#same:hover{
+    background-color: white;
+    color: orange;
+}
+input{
+   width: 220px;
+   height: 50px;
+   /* box-sizing: border-box; */
+   /* border: 1 px white; */
+   /* border-color: rgb(255, 255, 255); */
+   background-color: black;
+   color: white;
+   font-size:30px ;
+   
+}
